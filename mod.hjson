@@ -1,0 +1,15 @@
+displayName: "Project : CORE"
+
+name: "pr-core"
+
+author: "SadJi"
+
+main: "ru.SadJi.ProjectCore.ProjectCoreStarter"
+
+description: "A Mindustry Java mod."
+
+version: 1.0
+
+minGameVersion: 145
+
+java: true
