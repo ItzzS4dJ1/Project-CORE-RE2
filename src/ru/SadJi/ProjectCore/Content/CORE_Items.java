@@ -8,7 +8,7 @@ public class CORE_Items {
 
     public static void load(){
 
-        tisteel = new Item("Ti-Steel",  Color.valueOf("#2c7cc7")){
+        tisteel = new Item("ti-steel",  Color.valueOf("#2c7cc7")){
             {
             explosiveness = 0.3f;
             hardness = 4;

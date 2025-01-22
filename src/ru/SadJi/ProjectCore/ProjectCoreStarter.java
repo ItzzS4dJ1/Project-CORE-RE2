@@ -6,6 +6,7 @@ import mindustry.game.EventType.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 import ru.SadJi.ProjectCore.Content.CORE_Items;
+import ru.SadJi.ProjectCore.Content.CORE_Units;
 
 public class ProjectCoreStarter extends Mod{
 
@@ -34,6 +35,7 @@ public class ProjectCoreStarter extends Mod{
         Log.info("Projectiles loading...?");
 
         Log.info("Units loading...");
+        CORE_Units.load();
     }
 
 }
