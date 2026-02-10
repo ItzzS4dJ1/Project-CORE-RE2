@@ -4,4 +4,4 @@ Mindustry `Java` mod, adding several new additions, including:
  * Items
  * Blocks
  * Liquids
- * Maybe Ores in future
+ * Maybe Ores in future.
